@@ -33,3 +33,4 @@ C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET
 C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Projeto_ASPNET.pdb
 C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Projeto_ASPNET.genruntimeconfig.cache
 C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Projeto_ASPNET.csproj.CopyComplete
+C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
