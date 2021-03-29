@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Projeto_ASPNET.Data;
+using Projeto_ASPNET.Models;
 
 namespace Projeto_ASPNET.Migrations
 {
