@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Projeto_ASPNET.Data;
 using Projeto_ASPNET.Models;
+using Projeto_ASPNET.Services;
 
 namespace Projeto_ASPNET
 {
@@ -42,6 +43,7 @@ namespace Projeto_ASPNET
                     builder.MigrationsAssembly("Projeto_ASPNET")));
         
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         
         }
 

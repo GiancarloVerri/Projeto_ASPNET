@@ -38,3 +38,4 @@ C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET
 C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\GIANCARLO2020\Desktop\Curso C#\Seção 18\Projeto_ASPNET\Projeto_ASPNET\Projeto_ASPNET\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
